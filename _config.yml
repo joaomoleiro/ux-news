@@ -1,0 +1,19 @@
+title: UX News
+description: Notícias e artigos sobre UX e design de produto
+author: João Moleiro
+baseurl: ""
+url: ""
+
+# Build
+markdown: kramdown
+permalink: /posts/:title/
+
+# Para GitHub Pages
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
