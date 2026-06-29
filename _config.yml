@@ -1,8 +1,8 @@
 title: UX News
 description: Notícias e artigos sobre UX e design de produto
 author: João Moleiro
-baseurl: ""
-url: ""
+baseurl: "/ux-news"
+url: "https://joaomoleiro.github.io"
 
 # Build
 markdown: kramdown
